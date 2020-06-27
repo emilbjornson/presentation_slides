@@ -2,6 +2,10 @@
 
 This repository contains the slides to some of the YouTube presentations and other public talks by Emil Björnson.
 
+## Towards 6G: Massive MIMO is a Reality—What is Next?
+Slides: https://github.com/emilbjornson/presentation_slides/raw/master/towards_6G.pdf
+Video: https://youtu.be/chmZ8cdyTMc
+
 ## Fundamentals of Intelligent Reflecting Surfaces
 Slides: https://github.com/emilbjornson/presentation_slides/raw/master/IRS_fundamentals.pdf
 Video: https://youtu.be/CDt0JNrOKxk
@@ -20,6 +24,11 @@ Video: https://youtu.be/xJok6sdXXxY
 
 ## Massive MIMO for 5G below 6 GHz: Achieving Spectral Efficiency, Link Reliability, and Low-Power Operation
 Slides: https://github.com/emilbjornson/presentation_slides/raw/master/webinar_MIMO_below_6.pdf
+Video: https://youtu.be/qjqYRHYLoWo
+
+## Massive MIMO for 5G: How Big Can it Get?
+Slides: https://github.com/emilbjornson/presentation_slides/raw/master/webinar_how_big_can_it_get.pdf
+Video: https://youtu.be/m9wEAucKoWo
 
 ## Smart Signal Processing for Massive MIMO in 5G and Beyond
 Slides: https://github.com/emilbjornson/presentation_slides/raw/master/webinar_smart_signal_processing.pdf
