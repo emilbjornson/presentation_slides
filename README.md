@@ -6,6 +6,14 @@ This repository contains the slides to some of the YouTube presentations and oth
 Slides: https://github.com/emilbjornson/presentation_slides/raw/master/towards_6G.pdf
 Video: https://youtu.be/chmZ8cdyTMc
 
+## Reconfigurable Intelligent Surfaces: A Signal Processing Perspective
+Slides: https://github.com/emilbjornson/presentation_slides/raw/master/RIS_signal_processing.pdf
+Video: https://youtu.be/p9bt7j_J_xg
+
+## Communication Using Reconfigurable Intelligent Surfaces: Fundamentals and Recent Insights
+Slides: https://github.com/emilbjornson/presentation_slides/blob/master/webinar_5Gitaly_2020.pdf
+Video: https://youtu.be/nRwqCPhpu0s
+
 ## Fundamentals of Intelligent Reflecting Surfaces
 Slides: https://github.com/emilbjornson/presentation_slides/raw/master/IRS_fundamentals.pdf
 Video: https://youtu.be/CDt0JNrOKxk
