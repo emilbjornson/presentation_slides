@@ -1,6 +1,11 @@
 # Presentation slides
 
-This repository contains the slides to some of the YouTube presentations and other public talks by Emil Björnson.
+This repository contains the slides for some of the YouTube presentations and other public talks by Emil Björnson.
+
+
+## Introduction to Integrated Sensing and Communication (ISAC)
+Slides: https://github.com/emilbjornson/presentation_slides/raw/master/ISAC_introduction.pdf
+Video: https://youtu.be/_lNV28z7wIQ
 
 ## Towards 6G: Massive MIMO is a Reality—What is Next?
 Slides: https://github.com/emilbjornson/presentation_slides/raw/master/towards_6G.pdf
